@@ -27,4 +27,4 @@ Media, Moda, Desviacion estandar, Temperaturas medias por estacion y Referencia 
 **Excel de temperaturas máximas**
 ![](https://github.com/joseheredia01/Proyecto-Tuneado/blob/main/imagenes/temperaturas%20maximas.jpg?raw=true)\
 **Excel de temperaturas minimas**
-![](
+![](https://github.com/joseheredia01/Proyecto-Tuneado/blob/main/imagenes/temperaturas%20minimas.jpg?raw=true)
