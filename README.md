@@ -24,3 +24,5 @@ Todo esto se saca o se sacó desde la página de servicio meteorológico naciona
 # Manejo de datos
 Para el manejo de datos, lo que realizaremos fueron 2 tablas de Excel en las cuales pondremos todos nuestros datos ahí, es un excel seran las temperaturas minimas y en otro las temperaturas maximas; después con un código en lenguaje Python hecho en google colab, mandaremos a llamar todos los datos para así saber cuáles son las respuestas de las preguntas que tenemos como base.\
 Media, Moda, Desviacion estandar, Temperaturas medias por estacion y Referencia Geoespacial.
+**Excel de temperaturas máximas**
+![](
