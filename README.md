@@ -28,3 +28,8 @@ Media, Moda, Desviacion estandar, Temperaturas medias por estacion y Referencia 
 ![](https://github.com/joseheredia01/Proyecto-Tuneado/blob/main/imagenes/temperaturas%20maximas.jpg?raw=true)\
 **Excel de temperaturas minimas**
 ![](https://github.com/joseheredia01/Proyecto-Tuneado/blob/main/imagenes/temperaturas%20minimas.jpg?raw=true)
+# Resultados
+Estos se encuentran en los codigos cargados llamados "temperaturas maximas" y "temperaturas minimas" ambos anexados directamente desde el google colab.
+# Referencia Geoespacial
+De igual forma se encuentra dentro de los cogidos ya mencionados, de igual manera anexo una captura para tener una idea desde que ubicacion se tomaron los datos.\
+![](
