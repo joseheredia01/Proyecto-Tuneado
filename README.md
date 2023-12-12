@@ -32,4 +32,4 @@ Media, Moda, Desviacion estandar, Temperaturas medias por estacion y Referencia 
 Estos se encuentran en los codigos cargados llamados "temperaturas maximas" y "temperaturas minimas" ambos anexados directamente desde el google colab.
 # Referencia Geoespacial
 De igual forma se encuentra dentro de los cogidos ya mencionados, de igual manera anexo una captura para tener una idea desde que ubicacion se tomaron los datos.\
-![](
+![](https://github.com/joseheredia01/Proyecto-Tuneado/blob/main/imagenes/referencia%20geoespacial.jpg?raw=true)
